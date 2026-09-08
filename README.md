@@ -227,7 +227,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 # Conclusiones
 
-# Conclusiones y recomendaciones
+## Conclusiones y recomendaciones
 
 # Video About-the-Team
 
